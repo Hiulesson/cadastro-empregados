@@ -1,4 +1,4 @@
-package com.geladeira;
+package com.geladeira.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
